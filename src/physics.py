@@ -16,7 +16,7 @@ nz_ = 101
 #endregion
 
 #region constantes physiques
-"""
+r"""
 Dans cette region, nous définissons les constantes physiques qui seront utilisées dans la suite du projet. 
 Pour la cohérence de ces constantes et le choix des valeurs numériques pour le scintillateur plastique,
 voir le notebook dans modal_phy473\src
