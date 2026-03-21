@@ -1,0 +1,7 @@
+architecture.txt
+venv312/
+*.csv
+*.png
+*.pyc
+non_simul/
+__pycache__/
