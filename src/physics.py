@@ -322,7 +322,7 @@ class Physique(Stepping):
     Méthode run_multi() : effectue plusieurs tirs d'un muon de même énergie sur le scintillateur
     pour pouvoir récupérer des données issues des tirages stochastiques à chaque passage.
     
-    Méthode codée à l'aide d'une IA générative
+    Méthode codée avec l'aide d'une IA générative
     """
     
     def run_multi(self, n_runs: int = 10, n_points: int = 500,
