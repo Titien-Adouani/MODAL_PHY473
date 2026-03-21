@@ -667,7 +667,7 @@ class ResultsTab(QWidget):
                      fontsize=9, pad=6, fontfamily=FONT_MONO, loc='left')
         ax.legend(); ax.grid(True)
         self._style(ax, col)
- 
+
     def _style(self, ax, accent):
         for sp in ax.spines.values():
             sp.set_color(BORDER_L); sp.set_linewidth(0.8)
