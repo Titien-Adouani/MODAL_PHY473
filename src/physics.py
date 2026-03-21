@@ -9,6 +9,8 @@ from scipy.constants import physical_constants
 import math
 import pyvista as pv
 
+feur = 42
+
 #region constantes de maillage
 nx_ = 101
 ny_ = 101
